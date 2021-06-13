@@ -1,3 +1,5 @@
+// ref
+// https://stackoverflow.com/questions/66898202/whats-wrong-in-my-link-list-code-for-c-add-two-numbers
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2){
   struct ListNode *result = NULL; // Initialize the variable.
   struct ListNode *last = NULL;
